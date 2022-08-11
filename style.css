@@ -1,0 +1,11 @@
+
+
+.texto {
+    color:blue
+}
+#titulo {
+    border-style:groove;
+    border-color:teal;
+    border-radius: 3px;
+    border-width: 4px;
+}
